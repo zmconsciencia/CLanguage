@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652216382 source:c:\users\jcons_jsseo1n\desktop\c\capitulo 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
